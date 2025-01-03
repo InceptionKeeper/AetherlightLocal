@@ -1,0 +1,9 @@
+<SmartFoxConfig>
+    <host>127.0.0.1</host>
+    <port>9934</port>
+    <zone>aetherlight</zone>
+    <httpPort>80</httpPort>
+    <httpsPort>443</httpsPort>
+    <useBlueBox>true</useBlueBox>
+    <blueBoxPollingRate>750</blueBoxPollingRate>
+</SmartFoxConfig>
