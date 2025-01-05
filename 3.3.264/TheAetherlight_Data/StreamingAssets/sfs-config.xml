@@ -4,6 +4,6 @@
     <zone>aetherlight</zone>
     <httpPort>80</httpPort>
     <httpsPort>443</httpsPort>
-    <useBlueBox>true</useBlueBox>
+    <useBlueBox>false</useBlueBox>
     <blueBoxPollingRate>750</blueBoxPollingRate>
 </SmartFoxConfig>
